@@ -1,0 +1,6 @@
+fxarb.exe
+fxarb-service.exe
+/data-live/
+/report.json
+web/node_modules/
+web/dist/
